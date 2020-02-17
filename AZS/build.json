@@ -1,0 +1,12 @@
+{
+  "android": {
+    "release": {
+      "keystore": "c:\\amosov.keystore",
+      "storePassword": "red668483",
+      "alias": "Amosov",
+      "password": "red668483",
+      "keystoreType": ""
+    }
+  }
+}
+

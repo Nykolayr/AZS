@@ -1,0 +1,163 @@
+
+
+html {
+    max-height: 1000000px;
+    /*font-size: calc( (100vw - 480px)/(1280 - 480) * (24 - 16) + 16px) !important;*/
+}
+
+:root {
+        --f7-navbar-text-color: black;
+    --f7-navbar-link-color: black;
+    }
+body {
+    font-size: 4vw !important;
+}
+
+.stepper-button-plus, .stepper-button-minus {
+    width: 20vw;
+   }
+
+.greenBtn {
+    margin-left: 25vw;
+    width: 50vw;
+    background: #1F8C4D;
+    margin-top: 5vh;
+}
+
+#splash {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background: #1F8C4D;
+    z-index: 100;
+}
+.mainBar {
+    margin: 0 10%;
+    width: 80%;
+    position: absolute;
+    height: 3px;
+    bottom: 75px;
+}
+.downText {
+    color: black;
+    position: absolute;
+    text-align: center;
+    font-size: 1rem;
+    bottom: 45px;
+    line-height: 1rem;
+    width: 100%;
+    z-index: 101;
+}
+
+.splash {
+    width: 100%;
+}
+
+.toastMess {
+    text-align: center;
+}
+
+.splash {
+    width: 68%;
+}
+#splash {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background: #FCAC00;
+    color: black;
+    padding-top: 50%;
+    z-index: 100;
+}
+.color-green {
+    --f7-theme-color: #FCAC00;
+    --f7-theme-color-rgb: #FCAC00;
+    --f7-theme-color-shade: #FCAC00;
+    --f7-theme-color-tint: #FCAC00;
+    --f7-tabbar-link-text-transform: none;
+    --f7-navbar-link-color: white;
+    --f7-bars-link-color: white;
+}
+.navMain .navbar-inner, .smart-select-page .navbar-bg {
+    background: #FCAC00;
+}
+.titleSmart {
+    color: #FCAC00;
+    text-align: left;
+    font-weight: 600;
+}
+.textAuto {
+    font-weight: 700;
+    color: #FCAC00;
+}
+.textNumber {
+    font-weight: 600;
+    color: #161616;
+}
+.green {
+    color: #FCAC00;
+}
+.orang {
+    background #FCAC00;
+}
+.whiteCol {
+    color: white !important;
+}
+.greenBack {
+    background: #1F8C4D;
+}
+.greyback {
+    background: #CCCCCC;
+}
+.noActive {
+    background: #e5e0e0;
+}
+
+.logo {
+    margin-left: 10px;
+    height: 35px;
+}
+
+.navbar {
+    font-size: 0.9rem;
+}
+
+.wd100 {
+    width: 100% !important;
+}
+.w85 {
+    width: 85%;
+    }
+
+.w15 {
+    width: 15%;
+}
+.font0_9 {
+    font-size: 0.9rem;
+}
+
+.img24 {
+    width: 24px;
+}
+.img60 {
+    width: 60px;
+}
+.item-media {
+    margin-bottom: 4px !important;
+}
+.chevron {
+    margin-top: 3px;
+    margin-left: 2px;
+}
+.colorRed {
+    width: 100%;
+    color: red;
+    text-align: center;
+    font-size: 1rem;
+}
+.backRed {
+    background: red;
+    color: white;
+}
